@@ -1,5 +1,3 @@
-# proyecto-parroquialismo
-Proyecto de análisis del parroquialismo lingüístico en diferentes idiomas.
 
 # Análisis del Parroquialismo Lingüístico
 
@@ -43,10 +41,10 @@ Además, se incluyen scripts en R utilizados para preparación de datos y visual
 
 ## 👩‍💻 Autora
 
-Victoria Chavarro  
+Victoria Chavarro. Tutor: Jorge Alvarado Valencia  
 Trabajo de grado – Ciencia de Datos  
 Pontificia Universidad Javeriana
-Tutor: Jorge Alvarado Valencia
+
 
 ## 📜 Licencia
 
